@@ -9,7 +9,7 @@ Insights and recommendations are provided on the following key areas:
 * Transmission Type Analysis: A quick analysis on price and efficiency of BMW cars by their transmission type as well as the amount of cars recorded.
 * Fuel Type Analysis: A quick overview on price and efficiency of BMW cars by their fuel type.
 
-An interactive Tableau dashboard can be downloaded here.
+An interactive Tableau dashboard can be downloaded [here](https://github.com/SwiftTeMpest/BMW-Cars-EDA/blob/main/BMW%20Explatory%20Data%20Analysis.twbx).
 
 The dataset used is sourced from Kaggle and is used solely for practice and learning purposes.
 
@@ -24,7 +24,7 @@ The dataset consists of information below with a total row count of 10,781 recor
 ### Overview of Findings  
 The dataset include many different type of BMW car which can be divided by their models, transmission, and fuel type. The following sections will provide a more detailed analysis on several keypoint to highlight their price and efficiency thoroughly.
 
-Below is the quantity of each car included by their transmission and fuel type from the tableau dashboard with more examples included throughout the report. The entire interactive storyboard can be downloaded here.    
+Below is the quantity of each car included by their transmission and fuel type from the tableau dashboard with more examples included throughout the report. The entire interactive storyboard can be downloaded [here](https://github.com/SwiftTeMpest/BMW-Cars-EDA/blob/main/BMW%20Explatory%20Data%20Analysis.twbx).    
 
 <img width="1339" height="705" alt="Screenshot (2198)" src="https://github.com/user-attachments/assets/21bfe974-c38e-4eb2-bf42-22da925e83a0" />
 
